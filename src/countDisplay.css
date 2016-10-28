@@ -1,0 +1,18 @@
+/* b03901108 webPro hw5 ver 1.0 */
+/* 10/28, 2016, 12:48 */
+.todoLeft {
+	margin:auto;
+	width:150px;
+	height:150px;
+	border:4px double black;
+	border-radius:100%;
+	text-align:center;
+}
+.todoLeft > p {
+	font-family:serif;
+	font-weight:bold;
+	font-size:30px;
+}
+.todoCount {
+	font-size:65px;
+}

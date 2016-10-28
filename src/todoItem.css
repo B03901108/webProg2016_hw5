@@ -1,0 +1,37 @@
+/* b03901108 webPro hw5 ver 1.0 */
+/* 10/28, 2016, 12:48 */
+.todo, .done {
+	margin-bottom:2px;
+	width:500px;
+	height:40px;
+	border-radius:10px;
+	background-color:black;
+	padding-left:4px;
+	text-align:center;
+	font-size:26px;
+	font-family:cursive;
+}
+.todo {
+	color:#FF0066;
+}
+.todo:hover {
+	background-color:#FF0066;
+	color:black;
+}
+.done {
+	color:#00FFFF;
+}
+.done:hover {
+	background-color:#00FFFF;
+	color:black;
+}
+.delete {
+	float:right;
+	width:32px;
+	height:32px;
+	background-color:Transparent;
+	border:none;
+	text-align:center;
+	font-family:serif;
+	color:white;
+}
